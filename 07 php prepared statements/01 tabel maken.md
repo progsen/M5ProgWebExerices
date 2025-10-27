@@ -27,8 +27,8 @@ Maar eerst kijken waarom queries slecht zijn
 - voeg ook `mario` en `sonic` toe
     > ![](img/leerlingendata.PNG)
 
-- maak een script van je `schema` script en sla dat op
-    - TIP: gebruik hier `data export wizard` voor (`adminstration` tab)
+- sla je create en insert statements van deze tabel op
+    - zorg dat je de file een goede naam geeft en op een logische plaats voor nakijken opslaat
 
 ## klaar
 
